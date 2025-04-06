@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/TU_USUARIO/nginx-demo
+    repoURL: https://github.com/FranklinRiveraGranados/nginx-demo
     targetRevision: HEAD
     path: .
   syncPolicy:
